@@ -9,7 +9,7 @@ Installation
 
 If you're using  [CocoaPods](http://cocoapods.org) (You are not?! You should!!) just add 
     
-    pod 'UIActivityIndicator-for-SDWebImage'
+    pod 'UIActivityIndicator-for-SDWebImage', :git => 'https://github.com/useeless37/UIActivityIndicator-for-SDWebImage.git'
 into your Podfile file.
 
 Alternatively, copy the class (.h and .m) into your application. 
